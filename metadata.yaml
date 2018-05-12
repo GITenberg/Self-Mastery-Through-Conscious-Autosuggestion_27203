@@ -1,0 +1,30 @@
+_repo: Self-Mastery-Through-Conscious-Autosuggestion_27203
+_version: 0.1.0
+alternative_title: Maîtrise de soi-même par l'autosuggestion consciente. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coué, Emile
+    alias: Coue, Emile
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '32537'
+    url: http://www.gutenberg.org/2009/agents/32537
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2008-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27203'
+  lccn: '22016906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Mental suggestion'
+title: Self Mastery Through Conscious Autosuggestion
+url: http://www.gutenberg.org/ebooks/27203
